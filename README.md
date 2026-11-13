@@ -36,7 +36,7 @@ Developed a PostgreSQL database, SQL transformations, and an interactive Tableau
 Master of Information and Data Science — In Progress
 
 **Indiana University, Kelley School of Business**  
-Master of Business Administration — Finance and Marketing
+Master of Business Administration
 
 **De La Salle University**  
 Bachelor of Science in Industrial Engineering
