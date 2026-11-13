@@ -3,9 +3,9 @@
 
 ### Data Science & Analytics | UC Berkeley MIDS
 
-I'm a graduate student in the Master of Information and Data Science (MIDS) program at UC Berkeley, with professional experience in business analytics, strategy, and operations.
+I'm a graduate student in the Master of Information and Data Science (MIDS) program at UC Berkeley, with professional experience in business analytics and strategy.
 
-My interests include experimental design, causal inference, statistical inference, and predictive modeling. I enjoy applying statistical and analytical methods to solve practical business problems.
+My interests include experimental design, causal inference, statistical inference, and predictive modeling. I enjoy applying statistical and analytical methods to solve business problems.
 
 ## Featured Projects
 
@@ -26,7 +26,7 @@ Developed a PostgreSQL database, SQL transformations, and an interactive Tableau
 ## Technical Skills
 
 - **Programming:** Python, R, SQL
-- **Data Analysis & Modeling:** numpy, pandas, tidyverse, regression analysis, causal inference
+- **Data Analysis & Modeling:** numpy, pandas, tidyverse, regression, causal inference, randomization inference
 - **Visualization:** Tableau, Power BI, ggplot2, matplotlib
 - **Databases & Tools:** SQL, Git, GitHub
 
@@ -34,4 +34,9 @@ Developed a PostgreSQL database, SQL transformations, and an interactive Tableau
 
 **University of California, Berkeley**  
 Master of Information and Data Science — In Progress
-  
+
+**Indiana University, Kelley School of Business**  
+Master of Business Administration — Finance and Marketing
+
+**De La Salle University**  
+Bachelor of Science in Industrial Engineering
