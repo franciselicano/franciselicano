@@ -9,6 +9,14 @@ My interests include experimental design, causal inference, statistical inferenc
 
 ## Featured Projects
 
+### DashMart & Grocery Delivery Performance Analysis
+
+**Python | Pandas | Matplotlib | Seaborn | Operational Analytics**
+
+Analyzed approximately 12,500 deliveries and 59,000 items across DashMart and grocery stores, identifying opportunities to reduce missing items, late deliveries, and cancellations.
+
+[View Project](https://github.com/franciselicano/dashmart-grocery-delivery-performance-analysis)
+
 ### AI-Generated Survey Response Experiment
 **R | Experimental Design | Causal Inference | Power Analysis**
 
