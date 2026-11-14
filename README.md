@@ -5,7 +5,7 @@
 
 I'm a graduate student in the Master of Information and Data Science (MIDS) program at UC Berkeley, with professional experience in business analytics and strategy.
 
-My interests include experimental design, causal inference, statistical inference, and predictive modeling. I enjoy applying statistical and analytical methods to solve business problems.
+My interests include business analytics, experimental design, causal inference, and statistical modeling. I enjoy applying analytical and statistical methods to identify opportunities and risks, solve business problems, and inform decision-making.
 
 ## Featured Projects
 
