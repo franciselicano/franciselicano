@@ -9,6 +9,12 @@ My interests include business analytics, experimental design, causal inference, 
 
 ## Featured Projects
 
+### SwooshMart & Grocery Delivery Performance Analysis
+
+**Python | Pandas | Matplotlib | Seaborn | Operational Analytics**
+
+Analyzed approximately 12,500 deliveries and 59,000 items across SwooshMart and grocery stores, identifying opportunities to reduce missing items, late deliveries, and cancellations.
+
 ### AI-Generated Survey Response Experiment
 **R | Experimental Design | Causal Inference | Power Analysis**
 
