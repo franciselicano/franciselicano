@@ -15,6 +15,8 @@ My interests include business analytics, experimental design, causal inference, 
 
 Analyzed approximately 12,500 deliveries and 59,000 items across SwooshMart and grocery stores, identifying opportunities to reduce missing items, late deliveries, and cancellations.
 
+[View Project](https://github.com/franciselicano/swooshmart-grocery-delivery-performance-analysis)
+
 ### AI-Generated Survey Response Experiment
 **R | Experimental Design | Causal Inference | Power Analysis**
 
