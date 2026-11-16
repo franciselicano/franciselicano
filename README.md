@@ -9,7 +9,7 @@ My interests include business analytics, experimental design, causal inference, 
 
 ## Featured Projects
 
-### Performance Analysis: SwooshMart & Grocery Delivery
+### 1. Performance Analysis: SwooshMart & Grocery Delivery
 
 **Python | Pandas | Matplotlib | Seaborn | Operational Analytics**
 
@@ -17,14 +17,14 @@ Analyzed approximately 12,500 deliveries and 59,000 items across SwooshMart and 
 
 [View Project](https://github.com/franciselicano/swooshmart-grocery-delivery-performance-analysis)
 
-### Experimentation: AI-Generated Survey Response
+### 2. Experimentation: AI-Generated Survey Response
 **R | Experimental Design | Causal Inference | Power Analysis**
 
 Designed a matched-pair cluster-randomized experiment comparing AI-authored and human-authored survey invitations, including randomization inference and power analysis.
 
 [View Project](https://github.com/franciselicano/ai-survey-response-experiment)
 
-### Dashboarding: Superstore Sales & Profitability Analytics
+### 3. Dashboarding: Superstore Sales & Profitability Analytics
 **PostgreSQL | Tableau**
 
 Developed a PostgreSQL database, SQL transformations, and an interactive Tableau dashboard to analyze sales, profitability, and returns.
