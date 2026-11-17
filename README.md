@@ -24,12 +24,13 @@ Designed a matched-pair cluster-randomized experiment comparing AI-authored and 
 
 [View Project](https://github.com/franciselicano/ai-survey-response-experiment)
 
-### 3. Regression: Association of Construction Quality and King County Housing Prices
+### 3. Regression: How Much Is Construction Quality Reflected in King County Home Sale Prices?
+
 **R | OLS Regression | Statistical Inference | Exploratory Data Analysis**
 
-Developing multiple linear regression models to examine the association between residential construction quality and sale prices, controlling for relevant property characteristics. Applied exploratory data analysis, robust standard errors, nonlinear specifications, and hypothesis testing.
+Developing multiple regression models to quantify the association between residential construction quality and home sale prices, controlling for relevant property characteristics. Applying exploratory data analysis, robust standard errors, nonlinear specifications, and hypothesis testing.
 
-**In Progress - Coming Soon!**
+**In Progress — Coming Soon!**
 
 ### 4. Dashboarding: Superstore Sales & Profitability Analytics
 **PostgreSQL | Tableau**
