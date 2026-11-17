@@ -29,6 +29,8 @@ Designed a matched-pair cluster-randomized experiment comparing AI-authored and 
 
 Developing multiple linear regression models to examine the association between residential construction quality and sale prices, controlling for relevant property characteristics. Applied exploratory data analysis, robust standard errors, nonlinear specifications, and hypothesis testing.
 
+**In Progress - Coming Soon!**
+
 ### 4. Dashboarding: Superstore Sales & Profitability Analytics
 **PostgreSQL | Tableau**
 
