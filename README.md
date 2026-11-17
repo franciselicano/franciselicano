@@ -24,7 +24,12 @@ Designed a matched-pair cluster-randomized experiment comparing AI-authored and 
 
 [View Project](https://github.com/franciselicano/ai-survey-response-experiment)
 
-### 3. Dashboarding: Superstore Sales & Profitability Analytics
+### 3. Regression: Association of Construction Quality and King County Housing Prices
+**R | OLS Regression | Statistical Inference | Exploratory Data Analysis**
+
+Developing multiple linear regression models to examine the association between residential construction quality and sale prices, controlling for relevant property characteristics. Applied exploratory data analysis, robust standard errors, nonlinear specifications, and hypothesis testing.
+
+### 4. Dashboarding: Superstore Sales & Profitability Analytics
 **PostgreSQL | Tableau**
 
 Developed a PostgreSQL database, SQL transformations, and an interactive Tableau dashboard to analyze sales, profitability, and returns.
