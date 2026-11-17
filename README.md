@@ -15,12 +15,10 @@ My interests include business analytics, experimental design, causal inference, 
 
 Analyzed approximately 12,500 deliveries and 59,000 items across SwooshMart and grocery stores, identifying opportunities to reduce missing items, late deliveries, and cancellations.
 
-### 2. Experimentation: AI-Generated Survey Response
+### 2. [Experimentation: AI-Generated Survey Response](https://github.com/franciselicano/ai-survey-response-experiment)
 **R | Experimental Design | Causal Inference | Power Analysis**
 
 Designed a matched-pair cluster-randomized experiment comparing AI-authored and human-authored survey invitations, including randomization inference and power analysis.
-
-[View Project](https://github.com/franciselicano/ai-survey-response-experiment)
 
 ### 3. Regression: How Much Is Construction Quality Reflected in King County Home Sale Prices?
 
@@ -30,12 +28,10 @@ Developing multiple regression models to quantify the association between reside
 
 **In Progress — Coming Soon!**
 
-### 4. Dashboarding: Superstore Sales & Profitability Analytics
+### 4. [Dashboarding: Superstore Sales & Profitability Analytics](https://github.com/franciselicano/superstore-sales-profitability-analytics)
 **PostgreSQL | Tableau**
 
 Developed a PostgreSQL database, SQL transformations, and an interactive Tableau dashboard to analyze sales, profitability, and returns.
-
-[View Project](https://github.com/franciselicano/superstore-sales-profitability-analytics)
 
 ## Technical Skills
 
