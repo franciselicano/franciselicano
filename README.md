@@ -20,12 +20,11 @@ Analyzed approximately 12,500 deliveries and 59,000 items across SwooshMart and 
 
 Designed a matched-pair cluster-randomized experiment comparing AI-authored and human-authored survey invitations, including randomization inference and power analysis.
 
-### 3. Regression: How Much Is Construction Quality Reflected in King County Home Sale Prices?
-### In Progress — Coming Soon!
+### 3. Regression: [Understanding Home Sale Prices in King County](https://github.com/franciselicano/king-county-housing-price-analysis)
 
 **R | OLS Regression | Statistical Inference | Exploratory Data Analysis**
 
-Developing multiple regression models to quantify the association between residential construction quality and home sale prices, controlling for relevant property characteristics. Applying exploratory data analysis, robust standard errors, nonlinear specifications, and hypothesis testing.
+Developed multiple regression models to quantify the associations between construction grade, living area, and home sale prices, controlling for geographic location. Applied exploratory data analysis, nonlinear regression specifications, ZIP code fixed effects, robust standard errors, and hypothesis testing. Implemented an exploration-confirmation split to avoid increasing the risk of false-positive findings.
 
 ### 4. [Dashboarding: Superstore Sales & Profitability Analytics](https://github.com/franciselicano/superstore-sales-profitability-analytics)
 **PostgreSQL | Tableau**
