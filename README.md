@@ -20,7 +20,7 @@ Analyzed approximately 12,500 deliveries and 59,000 items across SwooshMart and 
 
 Designed a matched-pair cluster-randomized experiment comparing AI-authored and human-authored survey invitations, including randomization inference and power analysis.
 
-### 3. Regression: [Understanding Home Sale Prices in King County](https://github.com/franciselicano/king-county-housing-price-analysis)
+### 3. [Regression: Understanding Home Sale Prices in King County](https://github.com/franciselicano/king-county-housing-price-analysis)
 
 **R | OLS Regression | Statistical Inference | Exploratory Data Analysis**
 
