@@ -9,16 +9,16 @@ My interests include business analytics, experimentation, causal inference, and 
 
 ## Featured Projects
 
-### 1. [Regression: Understanding Home Sale Prices in King County](https://github.com/franciselicano/king-county-housing-price-analysis)
+### 1. [Experimentation: AI-Generated Survey Response](https://github.com/franciselicano/ai-survey-response-experiment)
+**R | Experimental Design | Causal Inference | Power Analysis**
+
+Designed a matched-pair cluster-randomized experiment comparing AI-authored and human-authored survey invitations, including randomization inference and power analysis.
+
+### 2. [Regression: Understanding Home Sale Prices in King County](https://github.com/franciselicano/king-county-housing-price-analysis)
 
 **R | OLS Regression | Statistical Inference | Exploratory Data Analysis**
 
 Developed multiple regression models to quantify the associations between construction grade, living area, and home sale prices, controlling for geographic location. Applied exploratory data analysis, nonlinear regression specifications, ZIP code fixed effects, robust standard errors, and hypothesis testing. Implemented an exploration-confirmation split to avoid increasing the risk of false-positive findings.
-
-### 2. [Experimentation: AI-Generated Survey Response](https://github.com/franciselicano/ai-survey-response-experiment)
-**R | Experimental Design | Causal Inference | Power Analysis**
-
-Designed a matched-pair cluster-randomized experiment comparing AI-authored and human-authored survey invitations, including randomization inference and power analysis.
 
 ### 3. [Performance Analysis: SwooshMart & Grocery Delivery](https://github.com/franciselicano/swooshmart-grocery-delivery-performance-analysis)
 
