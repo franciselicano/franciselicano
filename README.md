@@ -18,7 +18,7 @@ Designed a matched-pair cluster-randomized experiment comparing AI-authored and 
 
 **R | OLS Regression | Statistical Inference | Exploratory Data Analysis**
 
-Developed multiple regression models to quantify the associations between construction grade, living area, and home sale prices, controlling for geographic location. Applied exploratory data analysis, nonlinear regression specifications, ZIP code fixed effects, robust standard errors, and hypothesis testing. Implemented an exploration-confirmation split to avoid increasing the risk of false-positive findings.
+Developed a multiple linear regression model to quantify the associations between construction grade, living area, and home sale prices, controlling for geographic location. Conducted exploratory data analysis, evaluated nonlinear model specifications, and incorporated ZIP code fixed effects, robust standard errors, and hypothesis testing. Implemented an exploration-confirmation split to mitigate the risk of false-positive findings.
 
 ### 3. [Performance Analysis: SwooshMart & Grocery Delivery](https://github.com/franciselicano/swooshmart-grocery-delivery-performance-analysis)
 
