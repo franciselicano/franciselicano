@@ -20,11 +20,11 @@ Designed a matched-pair cluster-randomized experiment comparing AI-authored and 
 
 Developed a multiple linear regression model to quantify the associations between construction grade, living area, and home sale prices, controlling for geographic location. Conducted exploratory data analysis, evaluated nonlinear model specifications, and incorporated ZIP code fixed effects, robust standard errors, and hypothesis testing. Implemented an exploration-confirmation split to mitigate the risk of false-positive findings.
 
-### 3. [Performance Analysis: SwooshMart & Grocery Delivery](https://github.com/franciselicano/swooshmart-grocery-delivery-performance-analysis)
+### 3. [Performance Analysis: FastMart & Grocery Delivery](https://github.com/franciselicano/fastmart-grocery-delivery-performance-analysis)
 
 **Python | Pandas | Matplotlib | Seaborn | Operational Analytics**
 
-Analyzed approximately 12,500 deliveries and 59,000 items across SwooshMart and grocery stores, identifying opportunities to reduce missing items, late deliveries, and cancellations.
+Analyzed approximately 12,500 deliveries and 59,000 items across FastMart and grocery stores, identifying opportunities to reduce missing items, late deliveries, and cancellations.
 
 ### 4. [Dashboarding: Superstore Sales & Profitability Analytics](https://github.com/franciselicano/superstore-sales-profitability-analytics)
 **PostgreSQL | Tableau**
